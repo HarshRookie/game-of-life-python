@@ -1,7 +1,6 @@
 from os import system, name
 from sys import stdin
 from copy import deepcopy
-from html import parser
 
 # # # # # FILE INPUT # # # # #
 f = open("input.txt")
